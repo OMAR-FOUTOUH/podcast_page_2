@@ -1435,7 +1435,7 @@ padding: 20px;
   /* Section 1 */
   .section1 {
     flex-direction: column;
-    height: 100vh;
+    height: 83vh;
     align-items: center;
   }
   .headers {
