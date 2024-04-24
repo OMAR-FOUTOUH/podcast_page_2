@@ -1087,7 +1087,7 @@ a.active,a:hover{
     flex-direction: column;
     height: auto;
     align-items: center;
-    height: 100vh;
+   height: 83vh;
     justify-content: flex-start;
   }
   .headers {
